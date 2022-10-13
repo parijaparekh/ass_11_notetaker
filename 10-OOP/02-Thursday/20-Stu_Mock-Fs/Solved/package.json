@@ -1,10 +1,9 @@
 {
-  "name": "01-stu_tdd-dissect",
+  "name": "16-stu_mock-fs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "index.js",
     "test": "jest"
   },
   "author": "",
